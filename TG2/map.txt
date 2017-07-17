@@ -1,0 +1,135 @@
+1
+-1
+-1
+-1
+0
+Encontraste na entrada da floresta. Não se ouve nada, o ambiente está demasiado calmo ... (N - Entrar)
+
+-1
+0
+10
+2
+0
+Avistas uma placa com a indicação:
+(W - Santuario) (E - PERIGO!)
+
+-1
+-1
+1
+3
+0
+Encontras uma estrada entre os arbustos
+(W - Continuar) (E - Voltar)
+
+4
+-1
+2
+-1
+0
+A estrada continua
+(N - Continuar) (E - Voltar)
+
+5
+3
+-1
+-1
+0
+... E continua ...
+(N - Continuar) (S - Voltar)
+
+6
+4
+7
+-1
+0
+Encontraste uma placa que indica:
+(N - Santuario) (E - KEEP OUT!) (S - Voltar)
+
+-1
+5
+-1
+-1
+0
+Encontraste um beco sem saida, parece que alguem trocou as placas ...
+(S - Voltar)
+
+-1
+-1
+8
+5
+0
+Parece que estás no caminho certo de novo
+(W - Voltar ) (E - Continuar)
+
+9
+-1
+-1
+7
+0
+Encontraste o Santuario
+(N - Entrar ) (W - Voltar)
+
+-1
+8
+-1
+-1
+1
+Dentro do Santuario avistas uma espada cravada numa rocha
+('loot' - Apanhar o tesouro) (S - Sair do Santuario)
+
+-1
+-1
+11
+1
+0
+Esta zona da floresta está coberta de nevoeiro
+(W - Voltar) (E - Continuar)
+
+12
+-1
+-1
+10
+0
+Sentes uma brisa ...
+(W - Voltar) (N - Continuar)
+
+-1
+11
+13
+-1
+0
+Avistas um urso ensanguentado
+(S - Voltar) (E - Continuar)
+
+14
+-1
+-1
+12
+0
+Os restos mortais dos animais continuam ...
+(W - Voltar) (N - Continuar)
+
+15
+13
+-1
+-1
+0
+O caminho está coberto de pegadas gigantes
+(N - Continuar) (S - Voltar)
+
+-1
+14
+-1
+16
+0
+O caminho está destruido, cheio de árvores caidas
+(W - Continuar) (S - Voltar)
+
+-1
+-1
+15
+-1
+0
+O nevoeiro fica cada vez mais cerrado ...
+(N - Continuar) (E - Voltar)
+
